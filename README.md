@@ -1,1 +1,1 @@
-https://dgerasimchuk23.github.io/rsschool-cv/index
+https://dgerasimchuk23.github.io/rsschool-cv/
