@@ -28,5 +28,5 @@ I am a Project manager in building company and I want to become a Front-end deve
 
 ## Languages
 
-* **Russian** - Native
-* **English** - Pre-intermediate (A2)
+* **Russian**: Native
+* **English**: Pre-intermediate (A2)
