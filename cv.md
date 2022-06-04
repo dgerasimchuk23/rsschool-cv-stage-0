@@ -1,16 +1,16 @@
-#Gerasimchuk Dmitry#
+# Gerasimchuk Dmitry
 ===
-##Contacts##
+## Contacts
 ===
 * **Location:** Moscow, Russia
 * **Phone:** +7 925 720-23-32
 * **Email:** dgerasimchuk23@gmail.com
 * **GitHub:** dgerasimchuk23
-##About Me##
+## About Me
 ===
 I am a Project manager in building company and I want to become a Front-end developer.
 ===
-##Skills##
+## Skills
 ===
 * HTML
 * CSS
@@ -18,14 +18,14 @@ I am a Project manager in building company and I want to become a Front-end deve
 * Git/GitHub
 * Photoshop
 ===
-##Education##
+## Education
 ===
-* Moscow State University of Geodesy and Cartography
-    +The Faculty of optical information systems and technologies
-* Skillfactory
-    +Front-end dev.
+* **Moscow State University of Geodesy and Cartography**
+    + *The Faculty of optical information systems and technologies*
+* **Skillfactory**
+    + *Front-end dev.*
 ===
-##Languages##
+## Languages
 ===
 * **Russian** - Native
 * **English** - Pre-intermediate (A2)
