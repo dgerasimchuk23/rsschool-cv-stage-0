@@ -4,9 +4,81 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
+    <title>cv</title>
 </head>
-<body>
-    
+<body class="body container">
+    <header class="header">
+        <div class="container header-content">
+            <nav class="header-navigation">
+                <ul class="nav-list">
+                    <li class="nav-item"><a href="#about" class="nav-link">About Me</a></li>
+                    <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                    <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                    <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                    <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container main-container">
+            <div class="container left-side">
+                <img src="./IMG_2046.JPG" alt="my photo" width="380" height="500">
+                <section id="contacts" class="section">
+                    <h2 class="section-title">Contacts</h2>
+                    <p><span class="contacts-item bold">Location:</span> Moscow, Russia</p>
+                    <p><span class="contacts-item bold">Phone:</span><a class="link" href="tel:+7(925)720-23-32"> +7 (925) 720-23-32</a></p>
+                    <p><span class="contacts-item bold">Email:</span><a class="link" href="mailto:dgerasimchuk23@gmail.com"> dgerasimchuk23@gmail.com</a></p>
+                    <p><span class="contacts-item bold">GitHub:</span><a class="link" href="https://github.com/dgerasimchuk23"> dgerasimchuk23</a></p>
+                </section>
+                <section id="skills" class="section">
+                    <h2  class="section-title">Skills</h2>
+                    <ul class="list">
+                        <li class="skills-item">HTML</li>
+                        <li class="skills-item">CSS</li>
+                        <li class="skills-item">Java Script (basics)</li>
+                        <li class="skills-item">Git/GitHub</li>
+                        <li class="skills-item">Photoshop</li>
+                    </ul>
+                </section>
+            </div>
+            <div class="container right-side">
+                <h1  class="h1 section-title">Dmitry Gerasimchuk</h1>
+                <p class="fe-title">Front-End developer</p>
+                <section id="about" class="section">
+                    <h2  class="section-title">About Me</h2>
+                    <p>I am a Project manager in building company and I want to become a Front-end developer.</p>
+                </section>
+                <section id="education" class="section">
+                    <h2  class="section-title">Education</h2>
+                    <dl class="education-list">
+                        <dt class="bold education-item">Moscow State University of Geodesy and Cartography</dt>
+                            <dd class="coursive">The Faculty of optical information systems and technologies</dd>
+                        <dt class="bold education-item">Skillfactory</dt>
+                            <dd class="coursive">Front-end dev.</dd>
+                    </dl>
+                </section>
+                <section id="languages" class="section">
+                    <h2  class="section-title">Languages</h2>
+                    <p><span>Russian:</span> Native</p>
+                    <p><span>English:</span> Pre-intermediate (A2)</p>
+                </section>
+            </div>
+        </div>
+    </main>
+    <footer class="footer container">
+        <div class="container">
+            <p><a class="link" href="https://github.com/dgerasimchuk23"><img src="./GitHub_logo.png" alt="GitHub logo" width="60" height="60"></a></p>
+        </div>
+        <div class="year"><a>2022</a></div>
+        <div class="container">
+            <p><a class="link" href="https://rs.school/js/"><img src="./rs_logo.svg" alt="GitHub logo" width="120" height="80"></a></p>
+        </div>
+    </footer>
 </body>
 </html>
